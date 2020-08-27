@@ -11,7 +11,7 @@
 
 ## Big picture
 
-Here's a template with starter code to deploy an API for your machine learning model and data visualizations.  You're encouraged (but not required) to use this template for your Build Week.
+Here's a template with starter code to deploy an API for a machine learning model and data visualizations.  You're encouraged (but not required) to use this template for your Build Week.
 
 You can deploy on Heroku in 10 minutes. Here's the template deployed as-is: [https://ds-bw-test.herokuapp.com/](https://ds-bw-test.herokuapp.com/)
 
